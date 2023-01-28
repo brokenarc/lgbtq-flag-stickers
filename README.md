@@ -8,7 +8,7 @@ This repository contains a collection of over 30 graphic assets representing var
 
 ### Adobe Illustrator source files
 
-The Illustrator files located in the `src` directory have been assembled for printing as stickers. Each file has the following characteristics:
+The Illustrator files have been assembled for printing as stickers. Each file has the following characteristics:
 
 - CMYK color space
 - artboards measure 3&rsquo; &times; 2&rsquo; (76.2 mm &times; 50.8 mm)
@@ -20,7 +20,7 @@ The bleed area is hidden behind a clipping mask by default. The mask should be d
 
 ### Screen image files
 
-Screen display versions are located in the `dist` directory. These are provided in scalable (SVG) and bitmap (PNG) formats. In the SVG files, the contents of the bleed area are present but hidden by the clipping mask. The PNG files are 1024 pixels wide, and the bleed area is not present.
+Screen display versions are provided in scalable (SVG) and bitmap (PNG) formats. In the SVG files, the contents of the bleed area are present but hidden by the clipping mask. The PNG files are 1,024 pixels wide, and the bleed area is not present.
 
 ### Template
 
@@ -43,7 +43,6 @@ The designers of the flags are listed in the table below. A question mark indica
 | `flag-asexual`                    | AVEN users &ldquo;standup&rdquo; and &ldquo;Bristrek&rdquo; |
 | `flag-bear`                       | Craig Byrnes                                                |
 | `flag-bisexual`                   | Michael Page                                                |
-| `flag-chastity`                   | ?                                                           |
 | `flag-demiboy`                    | Transrants                                                  |
 | `flag-demigirl`                   | Transrants                                                  |
 | `flag-demiromantic`               | ?                                                           |
