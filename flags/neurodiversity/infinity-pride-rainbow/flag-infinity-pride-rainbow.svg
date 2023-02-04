@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="flag" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 216 144">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f58021;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+        stroke: #010101;
+        stroke-linecap: round;
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        stroke-linejoin: round;
+      }
+
+      .cls-4 {
+        fill: #263287;
+      }
+
+      .cls-5 {
+        fill: #fff21f;
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-7 {
+        fill: #d92632;
+      }
+
+      .cls-8 {
+        fill: none;
+      }
+
+      .cls-9 {
+        fill: #542e8e;
+      }
+
+      .cls-10 {
+        fill: #00853e;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect id="bleed_clip_mask" data-name="bleed clip mask" class="cls-8" width="216" height="144"/>
+    </clipPath>
+  </defs>
+  <g id="infinity_rainbow_pride_flag" data-name="infinity rainbow pride flag">
+    <g class="cls-6">
+      <g id="stripes">
+        <rect id="violet_stripe" data-name="violet stripe" class="cls-9" x="-9" y="108" width="234" height="45"/>
+        <rect id="indigo_stripe" data-name="indigo stripe" class="cls-4" x="-9" y="84" width="234" height="36"/>
+        <rect id="green_stripe" data-name="green stripe" class="cls-10" x="-9" y="60" width="234" height="36"/>
+        <rect id="yellow_stripe" data-name="yellow stripe" class="cls-5" x="-9" y="36" width="234" height="36"/>
+        <rect id="orange_stripe" data-name="orange stripe" class="cls-1" x="-9" y="7.5" width="234" height="40.5"/>
+        <rect id="red_stripe" data-name="red stripe" class="cls-7" x="-9" y="-9" width="234" height="33"/>
+      </g>
+      <g id="infinity">
+        <path class="cls-2" d="m100.5,89.58c-10.12,9.75-21.7,18.99-36.25,18.99-20.51.38-37.39-16.05-37.56-36.57,0-21.25,14.58-36.57,35.58-36.57,20.03,0,33.12,13.84,45.73,26.44l7.44-7.38c10.11-9.78,21.71-19.06,36.31-19.06,20.51-.38,37.4,16.05,37.56,36.57,0,21.25-14.82,36.57-35.58,36.57s-33.12-13.84-45.73-26.44l-7.5,7.45Zm17.42-17.58c9.38,9.63,20.74,21.75,34.82,21.74,11.97.18,21.6-9.79,21.01-21.74-.02-12-9.74-21.73-21.74-21.74-10.62,0-18.94,7.06-26.46,14.34l-7.63,7.41Zm-19.76,0c-9.4-9.64-20.77-21.74-34.85-21.74-11.97-.18-21.6,9.79-21.01,21.74h0c.02,12,9.75,21.73,21.75,21.74,10.66,0,19-7.11,26.54-14.42l7.57-7.33Z"/>
+        <line class="cls-3" x1="108" y1="61.87" x2="117.88" y2="72.02"/>
+        <line class="cls-3" x1="98.12" y1="72.02" x2="108" y2="82.16"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -30,6 +30,8 @@ The blank template used for the flags is located at the top level of the project
 
 Click on the green button labeled &ldquo;Code&rdquo; above. A popup menu will appear. Click the &ldquo;Download ZIP&rdquo; item at the bottom of that menu. A .zip file containing a copy of this repository and all the images will then be downloaded.
 
+The images may also be downloaded individually by browsing to the desired flag folder and downloading the format you prefer.
+
 ## Designer credits
 
 The designers of the flags are listed in the table below. A question mark indicates that the designer is unknown.
@@ -41,6 +43,7 @@ The designers of the flags are listed in the table below. A question mark indica
 | `flag-androgyne`                  | saveferris                                                  |
 | `flag-aromantic`                  | Cameron (@cameronwhimsy)                                    |
 | `flag-asexual`                    | AVEN users &ldquo;standup&rdquo; and &ldquo;Bristrek&rdquo; |
+| `flag-autistic`                   | Wikipedia user &ldquo;Neurodivergent Elephant&rdquo;        |
 | `flag-bear`                       | Craig Byrnes                                                |
 | `flag-bisexual`                   | Michael Page                                                |
 | `flag-demiboy`                    | Transrants                                                  |
@@ -50,6 +53,8 @@ The designers of the flags are listed in the table below. A question mark indica
 | `flag-gay`                        | gayflagblog                                                 |
 | `flag-genderfluid`                | JJ Poole                                                    |
 | `flag-genderqueer`                | Marilyn Roxie                                               |
+| `flag-infinity-pride-rainbow`     | ?                                                           |
+| `flag-infinity-transgender`       | ?                                                           |
 | `flag-intersex`                   | [Morgan Carpenter](https://morgancarpenter.com/)            |
 | `flag-leather`                    | [Tony DeBlase](https://en.wikipedia.org/wiki/Tony_DeBlase)  |
 | `flag-lesbian-5-stripe`           | Emily Gwen                                                  |
